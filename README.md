@@ -1,3 +1,7 @@
+Nama : Filzah Dahliah
+Nim  : 2020-181
+
+
 # Modul-6
 praktikum yang berfokus pada pengembangan model untuk mengenali gestur tangan dalam permainan batu, kertas, gunting (Rock-Paper-Scissors atau RPS). Dataset yang digunakan terdiri dari gambar-gambar representatif dari ketiga gestur tersebut, yaitu ROCK, PAPER, dan SCISSORS.
 
